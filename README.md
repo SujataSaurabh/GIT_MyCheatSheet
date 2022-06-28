@@ -6,7 +6,11 @@
 * git init
 
 * add untracked files to the staging area. Files are ready to be committed
-`> git add <file>'
+
+```
+> git add <file>
+```
+
 
 * get info about current workin tree and staging area
 >> git status
